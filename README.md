@@ -1,2 +1,2 @@
 # hackharvard-github
-Intro to Git and GitHub workshop, Hack Harvard, 2016
+Slides from my **Intro to Git and GitHub workshop**, at HackHarvard, Harvard University, 2016.
